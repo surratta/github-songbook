@@ -52,7 +52,7 @@ c1: Dm7   G7    E7
 c1: Am7                Dm7              G7           Cmaj7
 l1: Fill my heart with song, and let me sing forever more
 
-c1: F             Dm             E          Am   A7
+c1: F             Dm             E7           Am7   A7
 l1: you are all I long for all I worship and adore
 
 ## Chorus 
