@@ -47,11 +47,15 @@ c1: Dm7   G7    C   Am
 
 c1: Dm7   G7    C   E7  
 
+## Verse 
+
 c1: Am7                 Dm7              G7           Cmaj7
 l1: Fill my heart with song, and let me sing forever more
 
 c1: F             Dm             E          Am   A7
 l1: you are all I long for all I worship & adore
+
+## Chorus 
 
 c1:    Dm7       G7  C         Am
 l1: In other words,  please be true!
