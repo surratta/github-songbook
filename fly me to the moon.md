@@ -31,11 +31,11 @@ l1: you are all I long for all I worship & adore
 
 ## Chorus 
 
-c1:    Dm7        G7         C   Am
-l1: In other words,  hold my hand!
+c1:    Dm7        G7           C   Am
+l1: In other words,  please be true!
 
-c1:    Dm7        G7     C       E7
-l1: In other words, baby kiss me!
+c1:    Dm7        G7       C       E7
+l1: In other words, I love you!
 
 ## Instrumental 
 
@@ -43,25 +43,25 @@ c1: Am7   Dm7   G7   Cmaj7
 
 c1: F     Dm    E7  Am7  A7  
 
-c1: Dm7   G7    C   Am  
+c1: Dm7   G7    Cmaj7   Am  
 
-c1: Dm7   G7    C   E7  
+c1: Dm7   G7    E7  
 
 ## Verse 
 
-c1: Am7                 Dm7              G7           Cmaj7
+c1: Am7                Dm7              G7           Cmaj7
 l1: Fill my heart with song, and let me sing forever more
 
 c1: F             Dm             E          Am   A7
-l1: you are all I long for all I worship & adore
+l1: you are all I long for all I worship and adore
 
 ## Chorus 
 
-c1:    Dm7       G7  C         Am
+c1:    Dm7       G7            C    Am
 l1: In other words,  please be true!
 
-c1:    Dm7       G7
+c1:    Dm7       G7  ?
 l1: In other words
 
-c1:    Dm7          G G7   C
+c1:    Dm7          G G7   C  ?
 In other words  I love you!
