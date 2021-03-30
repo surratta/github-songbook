@@ -6,7 +6,7 @@ youTubeId: Pkf0yR41bBU
 # Juste quelqu'un de bien - Enzo Enzo / Kent
 
 ## Intro
-c1: Bm   E   Amaj7
+c1: Bm   E   Amaj7   A6
 
 c1: Bm   E   Amaj7
 
