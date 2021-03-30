@@ -60,8 +60,8 @@ l1: you are all I long for all I worship and adore
 c1:    Dm7       G7            C    Am
 l1: In other words,  please be true!
 
-c1:    Dm7       G7  ?
+c1:    Dm7       G7  
 l1: In other words
 
-c1:    Dm7          G G7   C  ?
+c1:    Dm7          G G7   C  
 In other words  I love you!
