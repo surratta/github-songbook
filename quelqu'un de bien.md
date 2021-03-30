@@ -8,15 +8,18 @@ youTubeId: Pkf0yR41bBU
 ## Intro
 c1: Bm   E   Amaj7  (x2)
 
-## Verse 1
+## Verse
 
-l1:  Debout devant ses illusions
+c1: Bm7                    E7
+l1: Debout devant ses illusions
 
-l1:  Une femme que plus rien ne dérange
+c1:                              Amaj7   A6
+l1: Une femme que plus rien ne dérange
 
-l1:  Détenue de son abandon
+c1: Bm7     C#7        Fm7
+l1: Détenue de son abandon
 
-l1:  Son ennui lui donne le change
+l1: Son ennui lui donne le change
  
 c1: Faug    A/E
 l1: Que retient elle de sa  vie
@@ -31,6 +34,8 @@ c1: Amaj7
 l1: En évidence sur un mur
  
 
+
+## Verse
 
 l1: Un mariage en Technicolor
 
@@ -51,32 +56,34 @@ l1: Maintenant son espoir serait d'être
  
 ## Chorus
 
-c1: Bm E
+c1:       Bm           E
 l1: Juste quelqu'un de bien
 
-c1: Bm C#7
+c1: Bm           C#7
 l1: Quelqu'un de bien
 
-c1:    D  C#7
+c1:          D        C#7
 l1: Le coeur à portée de main
 
-c1: F#m  C#7
+c1: F#m                C#7
 l1: Juste quelqu'un de bien
 
-c1:  D  C#7
+c1: D          C#7
 l1: Sans grand destin
 
-c1: Bm  C#7
+c1: Bm                  C#7
 l1: Une amie à qui l'on tient
 
-c1:  F#m   E
+c1: F#m                E
 l1: Juste quelqu'un de bien
 
-c1: B7/D#   D 
+c1: B7/D#        D 
 l1: Quelqu'un de bien
  
  
-l1:  Bm  Il m'arrive aussi de ces heures
+## Verse
+
+l1: Il m'arrive aussi de ces heures
 
 l1: Où ma vie se penche sur le vide
 
@@ -93,7 +100,9 @@ l1: Aucune réponse n'apaise
 l1: Mes questions à la verticale
  
  
-l1: J'dis bonjour à la boulangère
+## Verse
+
+l1: Je dis bonjour à la boulangère
 
 l1: Je tiens la porte à la vieille dame
 
@@ -105,11 +114,13 @@ l1: Pour que tu m'aimes encore un peu
 
 l1: Quand je n'attends que du mépris
 
-l1: A l'heure où s'enfuit le Bon Dleu
+l1: A l'heure où s'enfuit le Bon Dieu
 
 l1: Qui pourrait me dire si je suis
  
  
+## Chorus
+
 l1: Juste quelqu'un de bien
 
 l1: Quelqu'un de bien
@@ -127,6 +138,8 @@ l1: Juste quelqu'un de bien
 l1: Quelqu'un de bien
  
  
+## Verse
+
 l1: J'aime à penser que tous les hommes
 
 l1: S'arrêtent parfois de poursuivre
@@ -144,18 +157,21 @@ l1: Comme des gens qul parlent et qui doutent
 l1: D'être au-delà des apparences
  
  
-l1: Juste q Bm uelqu'un de bi E  en
+## Chorus
 
-l1:  Bm Quelqu'un de b C#7  ien
 
-l1: Le coeur à D  portée de ma C#7  in
+l1: Juste quelqu'un de bien
 
-l1:  F#m  Juste quelqu'un de b C#7  ien
+l1: Quelqu'un de bien
 
-l1:  D Sans grand dest C#7  in
+l1: Le coeur à portée de main
 
-l1: Un am Bm i à qui l'on tie C#7  nt
+l1: Juste quelqu'un de bien
 
-l1:  F#m   Juste quelqu'un de b E  ien
+l1: Sans grand destin
 
-l1: Quelqu'un de  b F#m  ien
+l1: Une amie à qui l'on tient
+
+l1: Juste quelqu'un de bien
+
+l1: Quelqu'un de bien
