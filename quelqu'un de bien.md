@@ -19,7 +19,7 @@ l1: Debout devant ses illusions
 c1:                              Amaj7   A6
 l1: Une femme que plus rien ne dérange
 
-c1: Bm7     C#7
+c1: Bm7                C#7
 l1: Détenue de son abandon
 
 c1:                        Fm7
@@ -66,16 +66,16 @@ l1: Juste quelqu'un de bien
 c1: Bm           C#7
 l1: Quelqu'un de bien
 
-c1:          D           C#7
+c1:          D        C#7
 l1: Le coeur à portée de main
 
-c1: F#m                C#7
+c1: F#m                 C#7
 l1:  Juste quelqu'un de bien
 
 c1: D            C#7
 l1: Sans grand destin
 
-c1:      Bm             C#7
+c1:      Bm        C#7
 l1: Une amie à qui l'on tient
 
 c1: F#m                 E
