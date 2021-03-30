@@ -39,9 +39,12 @@ l1: In other words, baby kiss me!
 
 ## Instrumental 
 
-c1: Am7   Dm7   G7   Cmaj7  
+c1: Am7   Dm7   G7   Cmaj7
+
 c1: F     Dm    E7  Am7  A7  
+
 c1: Dm7   G7    C   Am  
+
 c1: Dm7   G7    C   E7  
 
 c1: Am7                 Dm7              G7           Cmaj7
