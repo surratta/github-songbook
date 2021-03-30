@@ -1,5 +1,6 @@
 ---
-youTubeId: 
+youTubeId: Pkf0yR41bBU
+youTubeId: KBqFbDdGLMQ
 ---
 
 # Juste quelqu'un de bien - Enzo Enzo / Kent
@@ -14,7 +15,7 @@ l1:  Une femme que plus rien ne dérange
 l1:  Détenue de son abandon
 l1:  Son ennui lui donne le change
  
-c1: F+    A/E
+c1: Faug    A/E
 l1: Que retient elle de sa  vie
 c1: B7/D#   D 
 l1: Qu'elle pourrait revoir en peinture
