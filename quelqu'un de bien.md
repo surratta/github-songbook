@@ -16,21 +16,22 @@ l1: Debout devant ses illusions
 c1:                              Amaj7   A6
 l1: Une femme que plus rien ne dérange
 
-c1: Bm7     C#7        Fm7
+c1: Bm7     C#7
 l1: Détenue de son abandon
 
+c1:                        Fm7
 l1: Son ennui lui donne le change
  
-c1: Faug    A/E
-l1: Que retient elle de sa  vie
+c1: Faug                   A/E
+l1: Que retient elle de sa vie
 
-c1: B7/D#   D 
+c1:                            B7/D#   D 
 l1: Qu'elle pourrait revoir en peinture
 
-c1:  Bm   E7
-l1:  Bm   Dans un joli cadre verni
+c1: Bm                    E7
+l1: Dans un joli cadre verni
 
-c1: Amaj7
+c1:                    Amaj7
 l1: En évidence sur un mur
  
 
@@ -62,22 +63,22 @@ l1: Juste quelqu'un de bien
 c1: Bm           C#7
 l1: Quelqu'un de bien
 
-c1:          D        C#7
+c1:          D           C#7
 l1: Le coeur à portée de main
 
 c1: F#m                C#7
-l1: Juste quelqu'un de bien
+l1:  Juste quelqu'un de bien
 
-c1: D          C#7
+c1: D            C#7
 l1: Sans grand destin
 
-c1: Bm                  C#7
+c1:      Bm             C#7
 l1: Une amie à qui l'on tient
 
-c1: F#m                E
-l1: Juste quelqu'un de bien
+c1: F#m                 E
+l1:  Juste quelqu'un de bien
 
-c1: B7/D#        D 
+c1:              B7/D#   D 
 l1: Quelqu'un de bien
  
  
