@@ -65,6 +65,29 @@ c1: A7              Dm
 l1: Sway me smooth, sway me now.
 
 
+### Instrumental
+
+c1:                          A
+l1: strings
+
+c1: A7           Dm
+
+c1:                        A
+
+c1: A7              Dm
+
+c1:                          A
+l1: guitar
+
+c1: A7           Dm
+
+c1:                        A
+
+c1: A7              Dm
+l1:                 with a C# 
+
+
+
 ### Chorus
 
 c1:                   C
@@ -98,5 +121,5 @@ l1: Sway me smooth, sway me now.
 ### Outro
 
 c1: A             A7              Dm
-l1: You know how..sway me smooth..sway me now (x2)
+l1: You know how..sway me smooth..sway me now
 
