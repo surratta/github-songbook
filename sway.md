@@ -61,14 +61,21 @@ c1: A7              Dm
 l1: Sway me smooth, sway me now.
 
 
-### Instrumental string, then guitar
+### Instrumental strings, then guitar
 c1:                          A  
+
 c1: A7           Dm  
+
 c1:                        A  
+
 c1: A7              Dm  
+
 c1:                          A  
+
 c1: A7           Dm  
+
 c1:                        A  
+
 c1: A7              Dm  
 l1:                 with a C# 
 
