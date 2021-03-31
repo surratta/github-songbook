@@ -5,7 +5,7 @@ youTubeId: DXq-XdyGehk
 # Sway - Dean Martin
 
 
-### Verse
+## Verse
 c1: Dm                   A
 l1: When marimba rhythms start to play,
 
@@ -19,7 +19,7 @@ c1: A7             Dm
 l1: Hold me close, sway me more.
 
 
-### Verse
+## Verse
 c1: Dm                    A
 l1: Like a flower bending in the breeze,
 
@@ -33,7 +33,7 @@ c1: A7            Dm
 l1: Stay with me, sway with me.
 
 
-### Chorus
+## Chorus
 c1:                   C
 l1: Other dancers may be on the floor,
 
@@ -47,7 +47,7 @@ c1:                    Bb             A
 l1: When we sway, I go weak.
 
 
-### Verse
+## Verse
 c1:                          A
 l1: I can hear the sounds of violins,
 
@@ -61,7 +61,7 @@ c1: A7              Dm
 l1: Sway me smooth, sway me now.
 
 
-### Instrumental strings, then guitar
+## Instrumental strings, then guitar
 c1:                          A  
 
 c1: A7           Dm  
@@ -81,7 +81,7 @@ l1:                 with a C#
 
 
 
-### Chorus
+## Chorus
 c1:                   C
 l1: Other dancers may be on the floor,
 
@@ -95,7 +95,7 @@ c1:                    Bb             A
 l1: When we sway, I go weak
 
 
-### Verse
+## Verse
 c1:                          A
 l1: I can hear the sounds of violins,
 
@@ -109,7 +109,7 @@ c1: A7              Dm
 l1: Sway me smooth, sway me now.
 
 
-### Outro
+## Outro
 c1: A             A7              Dm
 l1: You know how..sway me smooth..sway me now
 
