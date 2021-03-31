@@ -25,10 +25,10 @@ l1: Détenue de son abandon
 c1:                        Fm7
 l1: Son ennui lui donne le change
  
-c1: Faug                   A/E
+c1: Faug                   A / E
 l1: Que retient elle de sa vie
 
-c1:                            B7/D#   D 
+c1:                            B7 / D#   D 
 l1: Qu'elle pourrait revoir en peinture
 
 c1: Bm                    E7
@@ -81,7 +81,7 @@ l1: Une amie à qui l'on tient
 c1: F#m                 E
 l1:  Juste quelqu'un de bien
 
-c1:              B7/D#   D 
+c1:              B7 / D#   D 
 l1: Quelqu'un de bien
  
  
