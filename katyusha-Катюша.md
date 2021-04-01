@@ -12,22 +12,22 @@ https://www.marxists.org/history/ussr/sounds/lyrics/katyusha.htm
 c1: Am                    E7
 l1: Rastsvetali iabloni i grushi
 l2: Расцветали яблони и груши
-l3: Apple and pear trees were a-blooming
+l3:  Apple and pear trees were a-blooming
 
 c1: E7                   Am
 l1: Poplyli tumany nad rekoj
 l2: Поплыли туманы над рекой
-l3: Mist (was) creeping on the river
+l3:  Mist (was) creeping on the river
 
 c1: Am G C A7 Dm         Am
 l1: Vykhodila na bereg Katyusha
 l2: Выходила на берег Катюша
-l3: Katyusha set out on the banks
+l3:  Katyusha set out on the banks
 
 c1: Dm   Am    E7          Am
 l1: Na vysokij bereg na krutoj
 l2: На высокий берег на крутой
-l3: On the steep and lofty bank
+l3:  On the steep and lofty bank
 
 
 
